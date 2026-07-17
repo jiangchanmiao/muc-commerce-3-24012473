@@ -1,0 +1,6 @@
+﻿chart_id,file_name,business_question,chart_type,key_finding,limitation
+01,01_category_bar.png,不同支付偏好用户的规模和流失率有何差异？,bar,COD流失率24.9%最高，Credit Card最低14.2%；Debit Card用户最多2314人,不能说明支付方式导致流失
+02,02_behavior_scatter.png,订单数与返现金额的分布关系如何？流失用户是否聚集？,scatter,流失用户在低订单数区域更密集，订单中位数2低于未流失的3,相关不等于因果，低订单可能是流失的结果
+03,03_ordered_line.png,不同生命周期阶段的流失率如何变化？,line,新用户流失率25.3%最高，24个月以上8.5%最低，呈递减趋势,是有序阶段比较，不是时间趋势
+04,04_composition_chart.png,各支付方式的用户数占比构成如何？,pie_or_bar,Debit Card占41.1%，Credit Card占31.5%，合计超72%,仅展示占比，不适合比较行为指标
+05,day06_visualization_summary.png,整体概览,dashboard,COD/E wallet流失高，新用户风险大，Debit/Credit Card是核心用户,综合图信息密度高，细节需查看各独立图
