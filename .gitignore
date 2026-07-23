@@ -14,3 +14,5 @@ venv/
 # 不要把教师答案放入学生仓库
 *teacher_demo*.ipynb
 *teacher_reference*.ipynb
+
+__MACOSX/
